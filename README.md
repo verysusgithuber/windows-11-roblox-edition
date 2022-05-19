@@ -1,5 +1,5 @@
 # Unofficial Windows 11, created in Roblox Studio
-### !!WARNING: This is not official Windows 11 by Microsoft.!!
+### !!WARNING: This is not official Windows 11, and this project not developed/not sponsored/not created by Microsoft.!!
 ### This project is developing, and may be bugs and lags.
 
 Hello! You in the Win11 Roblox Edition repository!
